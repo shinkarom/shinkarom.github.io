@@ -7,7 +7,7 @@ main,footer {
 }
 header {
 	height: 50%;	
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("retro-fields-abstract-red-header-7145.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/retro-fields-abstract-red-header-7145.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
